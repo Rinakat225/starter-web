@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Something new
+    Something new. Adding new changes.
 
 # TECHNOLOGY COLOPHON
 
