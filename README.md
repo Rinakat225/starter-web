@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github together. Adding some text for practice. More practice text.
+This is a simple website project for showing how to use Git and Github together. Adding some text for practice. More practice text. Adding changes after the stash.
 
 ## Introduction
 
